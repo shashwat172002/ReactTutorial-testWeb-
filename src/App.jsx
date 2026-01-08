@@ -79,7 +79,6 @@ function AboutReact({ onHiddenClick }) {
             top: '165px',
             left: '50%',
             transform: 'translateX(-50%)',
-            cursor: 'pointer',
             zIndex: 50
           }}
           title=""
