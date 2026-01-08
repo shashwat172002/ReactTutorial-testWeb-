@@ -82,7 +82,7 @@ function AboutReact({ onHiddenClick }) {
             cursor: 'pointer',
             zIndex: 50
           }}
-          title="Secret Access"
+          title=""
           aria-label="Hidden admin access"
         />
       </div>
